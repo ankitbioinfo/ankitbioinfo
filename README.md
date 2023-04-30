@@ -22,7 +22,7 @@ https://academic.oup.com/nar/article/46/5/e29/4754463
 
 During my research career, I have learned many skills from different domains, such as machine learning concepts, quantitative biology, image registration, image segmentation, spatial biology, neighborhood analysis, and cell/nuclei and tissue morphological properties volume, surface area, sphericity, principal component ratio, orientation ratio, etc. 
 
-Please find my CV if you are in interested. 
+Please find my CV if you are interested in more. 
 https://github.com/ankitbioinfo/interestingLinks/blob/master/CV_ankit2.pdf
 
 
