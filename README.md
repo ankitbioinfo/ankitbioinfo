@@ -8,16 +8,15 @@ Before this, I was involved in a project explaining how the long bone (tibia, ul
 [Application of 3D MAPs pipeline identifies the morphological sequence chondrocytes undergo and the regulatory role of GDF5 in this process] https://www.nature.com/articles/s41467-021-25714-0
 
 
-Before the above, I used gene expression as a proxy for the effective temperature to explain the chromosome positioning in the nuclei. I developed a biophysical model to predict the chromosome distributions in the nuclei and their 2d/3d shapes. The details of this study you can read it here: 
+Before the above, I used gene expression as a proxy for the effective temperature to explain the chromosome positioning in the nuclei. I developed a biophysical polymer model to predict the chromosome distributions in the nuclei and their 2d/3d shapes. The details of this study you can read it here: 
 
 Chromatin as active matter https://iopscience.iop.org/article/10.1088/1742-5468/aa5287
 
 Nonequilibrium Biophysical Processes Influence the Large-Scale Architecture of the Cell Nucleus
-https://iopscience.iop.org/article/10.1088/1742-5468/aa5287{a}
+https://www.cell.com/biophysj/fulltext/S0006-3495(19)30940-3
 
 
-
-
+I have required many skills from many domains during my research career and some of them as follows:  
 
 
 
