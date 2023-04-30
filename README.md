@@ -16,10 +16,11 @@ Before the above, I used gene expression as a proxy for the effective temperatur
 https://www.cell.com/biophysj/fulltext/S0006-3495(19)30940-3
 
 I also used ChIP-seq data to find the mixtures of motifs using sequence similarity and position weight matrix models. Please follow the link to read in detail: 
+
 (4) THiCweed: fast, sensitive detection of sequence features by clustering big datasets
 https://academic.oup.com/nar/article/46/5/e29/4754463
 
-I have required many skills from many domains during my research career and some of them as follows:  
+During my research career, I have learned many skills from different domains, such as machine learning concepts, quantitative biology, image registration, image segmentation, spatial biology, neighborhood analysis, and cell/nuclei and tissue morphological properties volume, surface area, sphericity, principal component ratio, orientation ratio, etc. 
 
 
 
