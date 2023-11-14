@@ -41,6 +41,9 @@ https://github.com/ankitbioinfo/interestingLinks/blob/master/CV_ankit2.pdf
 Thank you for visiting my GitHub profile! If you have any questions or want to collaborate on fascinating research projects, don't hesitate to reach out. Let's unlock the mysteries of biology and data together! 🌟
 
 
+https://orcid.org/0009-0006-1700-2397
+WN 1234#
+Scopus Author ID: 57193255954
 
 
 
