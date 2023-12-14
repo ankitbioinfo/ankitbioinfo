@@ -36,14 +36,13 @@ Throughout my research journey, I've acquired a versatile skill set spanning mac
 
 📄 Learn More:
 
-If you'd like to explore my credentials in more detail, feel free to peruse my CV.
-https://github.com/ankitbioinfo/interestingLinks/blob/master/CV_ankit2.pdf
+If you'd like to explore my credentials in more detail, feel free to peruse my [CV.](https://github.com/ankitbioinfo/interestingLinks/blob/master/CV_ankit2.pdf)
 
 Thank you for visiting my GitHub profile! If you have any questions or want to collaborate on fascinating research projects, don't hesitate to reach out. Let's unlock the mysteries of biology and data together! 🌟
 
+ORCID: [0009-0006-1700-2397] (https://orcid.org/0009-0006-1700-2397)
 
-https://orcid.org/0009-0006-1700-2397
-WN 1234#
+W 1234#
 Scopus Author ID: 57193255954
 
 
