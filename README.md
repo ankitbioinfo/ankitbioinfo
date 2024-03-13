@@ -4,7 +4,7 @@ I’m Ankit, a passionate researcher with a diverse background in computational 
 
 🧬 Current Work:
 
-I'm currently immersed in the exciting world of machine learning, where I'm developing an innovative pipeline that seamlessly integrates single-cell RNA sequencing data with image-based spatial transcriptomics data. Through this integration of data sources, we're unraveling the intricate web of cellular crosstalk within various tissue niches. Our focus extends to deciphering the covariation of genes among interacting cell types. We've applied this method to publicly available datasets from liver, organogenesis, brain, and intestine tissues, with the aim of identifying novel therapeutic targets. (Stay tuned, as manuscripts and packages are in the works!)
+I'm currently immersed in the exciting world of machine learning, where I'm developing an innovative pipeline that seamlessly integrates single-cell RNA sequencing data with image-based spatial transcriptomics data. Through this integration of data sources, we're unraveling the intricate web of cellular crosstalk within various tissue niches. Our focus extends to deciphering the covariation of genes among interacting cellular states. We've applied this method to publicly available datasets from liver, organogenesis, brain, and intestine tissues, with the aim of identifying novel therapeutic targets. (Stay tuned, as manuscript is under revision!)
 
 🦴 Past Endeavors:
 
@@ -18,7 +18,7 @@ To dive deeper into these discoveries, check out our publication:
 
 🔬 Previous Research Highlights:
 
-I've explored various facets of biology and data analysis throughout my career. This includes using gene expression as a proxy for effective temperature to elucidate chromosome positioning in nuclei. I developed biophysical models to predict chromosome distributions in nuclei, even delving into their 2D/3D chromosomes shapes. My journey has also taken me into the realm of ChIP-seq data analysis to uncover mixtures of motifs using sequence similarity and position weight matrix models.
+I've explored various facets of biology and data analysis throughout my career. This includes using gene expression as a proxy for effective temperature to elucidate chromosome positioning in nuclei. I developed biophysical models to predict chromatin distributions in nuclei, even delving into their 2D/3D chromosomes shapes. My journey has also taken me into the realm of ChIP-seq data analysis to uncover mixtures of motifs using sequence similarity and position weight matrix models.
 
 Interested in learning more? Dive into the details of my previous research through these publications:
 
@@ -31,7 +31,7 @@ Interested in learning more? Dive into the details of my previous research throu
 
 🛠️ Skills:
 
-Throughout my research journey, I've acquired a versatile skill set spanning machine learning, quantitative biology, image analysis (including registration and segmentation), spatial biology, neighborhood analysis, and the quantification of cell/nuclei and tissue morphological properties (volume, surface area, sphericity, principal component orientation, and many more).
+Throughout my research journey, I've acquired a versatile skill set spanning machine learning, quantitative biology, image analysis, spatial biology, spatial transcriptomics, single cell RNA sequencing, neighborhood analysis, and the quantification of cell/nuclei and tissue morphological properties (volume, surface area, sphericity, principal component orientation, and many more).
 
 
 📄 Learn More:
