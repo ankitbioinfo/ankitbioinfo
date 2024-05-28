@@ -45,9 +45,7 @@ Thank you for visiting my GitHub profile! If you have any questions or want to c
 W 1234#
 Scopus Author ID: 57193255954
 
-I will post some of the great talk here...
 
-[Scientist Stories: George Whitesides, The Most Cited Chemist in the World and Co-Founder of Genzyme](https://www.youtube.com/watch?v=9gupIgGNxYA&t=4s)
 
 
 <!--
