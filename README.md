@@ -11,9 +11,9 @@ I'm currently immersed in the exciting world of machine learning, where I'm deve
 In a previous project, I delved into the fascinating realm of bone growth morphogenesis. Using quantitative modeling, statistical analyses, and advanced morphometric techniques applied to growth plate tissue images, we unearthed novel insights into the mechanisms governing long bone elongation. Our journey included tasks such as cell/nuclei segmentation, bone registration, and the defining the parameters of various morphological properties. Among our discoveries, I observed isometric growth of chondrocytes in the resting zone of the growth plate, contrasting with allometric growth in the proliferative zone. I also identified distinct patterns in cell lineage clusters between embryonic and neonatal mice that linked to circumferential and elongation of bone growth.
 
 To dive deeper into these discoveries, check out our publication: 
-[Application of 3D MAPs pipeline identifies the morphological sequence chondrocytes undergo and the regulatory role of GDF5 in this process. Nature Communication 2021](https://www.nature.com/articles/s41467-021-25714-0)
+Application of 3D MAPs pipeline identifies the morphological sequence chondrocytes undergo and the regulatory role of GDF5 in this process. [Nature Communication 2021](https://www.nature.com/articles/s41467-021-25714-0)
 
-[Bone elongation in the embryo occurs without column formation in the growth plate. Accepted in eLife 2024](https://www.biorxiv.org/content/10.1101/2023.11.14.567062v2)
+Bone elongation in the embryo occurs without column formation in the growth plate. [Accepted in eLife 2024](https://www.biorxiv.org/content/10.1101/2023.11.14.567062v2)
 
 
 🔬 Previous Research Highlights:
@@ -22,11 +22,11 @@ I've explored various facets of biology and data analysis throughout my career. 
 
 Interested in learning more? Dive into the details of my previous research through these publications:
 
-[Chromatin as active matter.](https://iopscience.iop.org/article/10.1088/1742-5468/aa5287)
+Chromatin as active matter. [JSTAT 2017](https://iopscience.iop.org/article/10.1088/1742-5468/aa5287)
 
-[Nonequilibrium Biophysical Processes Influence the Large-Scale Architecture of the Cell Nucleus.](https://www.cell.com/biophysj/fulltext/S0006-3495(19)30940-3)
+Nonequilibrium Biophysical Processes Influence the Large-Scale Architecture of the Cell Nucleus.[Biophysical Journal 2019](https://www.cell.com/biophysj/fulltext/S0006-3495(19)30940-3)
 
-[THiCweed: fast, sensitive detection of sequence features by clustering big datasets.](https://academic.oup.com/nar/article/46/5/e29/4754463)
+THiCweed: fast, sensitive detection of sequence features by clustering big datasets.[Nucleic Acid Research 2017](https://academic.oup.com/nar/article/46/5/e29/4754463)
 
 
 🛠️ Skills:
