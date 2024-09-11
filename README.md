@@ -4,16 +4,19 @@ I’m Ankit, a passionate researcher with a diverse background in computational 
 
 🧬 Current Work:
 
-I'm currently immersed in the exciting world of machine learning, where I'm developing an innovative pipeline that seamlessly integrates single-cell RNA sequencing data with image-based spatial transcriptomics data. Through this integration of data sources, we're unraveling the intricate web of cellular crosstalk within various tissue niches. My focus extends to deciphering the covariation of gene modules in colocalized cellular states. We've applied this method to publicly available datasets from liver, organogenesis, brain, and intestine tissues, with the aim of identifying novel therapeutic targets. (Stay tuned, as manuscript is under revision!) Please find the bioRxiv link [here.](https://doi.org/10.1101/2024.09.08.611848) 
+I'm currently immersed in the exciting world of machine learning, where I'm developing an innovative pipeline that seamlessly integrates single-cell RNA sequencing data with image-based spatial transcriptomics data. Through this integration of data sources, we're unraveling the intricate web of cellular crosstalk within various tissue niches. My focus extends to deciphering the covariation of gene modules in colocalized cellular states. We've applied this method to publicly available datasets from liver, organogenesis, brain, and intestine tissues, with the aim of identifying novel therapeutic targets. (Stay tuned, as manuscript is under revision!) 
+
+<Please find the bioRxiv link [here.](https://doi.org/10.1101/2024.09.08.611848) 
 
 🦴 Past Endeavors:
 
 In a previous project, I delved into the fascinating realm of bone growth morphogenesis. Using quantitative modeling, statistical analyses, and advanced morphometric techniques applied to growth plate tissue images, we unearthed novel insights into the mechanisms governing long bone elongation. Our journey included tasks such as cell/nuclei segmentation, bone registration, and the defining the parameters of various morphological properties. Among our discoveries, I observed isometric growth of chondrocytes in the resting zone of the growth plate, contrasting with allometric growth in the proliferative zone. I also identified distinct patterns in cell lineage clusters between embryonic and neonatal mice that linked to circumferential and elongation of bone growth.
 
 To dive deeper into these discoveries, check out our publication: 
+
 <ins>Application of 3D MAPs pipeline identifies the morphological sequence chondrocytes undergo and the regulatory role of GDF5 in this process.</ins> [Nature Communications 2021](https://www.nature.com/articles/s41467-021-25714-0)
 
-Bone elongation in the embryo occurs without column formation in the growth plate. [Accepted in eLife 2024](https://www.biorxiv.org/content/10.1101/2023.11.14.567062v2)
+<ins>Bone elongation in the embryo occurs without column formation in the growth plate.</ins> [Accepted in eLife 2024](https://www.biorxiv.org/content/10.1101/2023.11.14.567062v2)
 
 
 🔬 Previous Research Highlights:
