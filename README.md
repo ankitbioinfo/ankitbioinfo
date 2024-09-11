@@ -6,7 +6,7 @@ I’m Ankit, a passionate researcher with a diverse background in computational 
 
 I'm currently immersed in the exciting world of machine learning, where I'm developing an innovative pipeline that seamlessly integrates single-cell RNA sequencing data with image-based spatial transcriptomics data. Through this integration of data sources, we're unraveling the intricate web of cellular crosstalk within various tissue niches. My focus extends to deciphering the covariation of gene modules in colocalized cellular states. We've applied this method to publicly available datasets from liver, organogenesis, brain, and intestine tissues, with the aim of identifying novel therapeutic targets. (Stay tuned, as manuscript is under revision!) 
 
-<Please find the bioRxiv link [here.](https://doi.org/10.1101/2024.09.08.611848) 
+<ins>NiCo Identifies Extrinsic Drivers of Cell State Modulation by Niche Covariation Analysis.</ins> [bioRxiv link](https://doi.org/10.1101/2024.09.08.611848) 
 
 🦴 Past Endeavors:
 
@@ -25,11 +25,11 @@ I've explored various facets of biology and data analysis throughout my career. 
 
 Interested in learning more? Dive into the details of my previous research through these publications:
 
-Chromatin as active matter. [JSTAT 2017](https://iopscience.iop.org/article/10.1088/1742-5468/aa5287)
+<ins>Chromatin as active matter.</ins> [JSTAT 2017](https://iopscience.iop.org/article/10.1088/1742-5468/aa5287)
 
-Nonequilibrium Biophysical Processes Influence the Large-Scale Architecture of the Cell Nucleus. [Biophysical Journal 2020](https://www.cell.com/biophysj/fulltext/S0006-3495(19)30940-3)
+<ins>Nonequilibrium Biophysical Processes Influence the Large-Scale Architecture of the Cell Nucleus.</ins> [Biophysical Journal 2020](https://www.cell.com/biophysj/fulltext/S0006-3495(19)30940-3)
 
-THiCweed: fast, sensitive detection of sequence features by clustering big datasets. [Nucleic Acid Research 2017](https://academic.oup.com/nar/article/46/5/e29/4754463)
+<ins>THiCweed: fast, sensitive detection of sequence features by clustering big datasets.</ins> [Nucleic Acid Research 2017](https://academic.oup.com/nar/article/46/5/e29/4754463)
 
 
 🛠️ Skills:
