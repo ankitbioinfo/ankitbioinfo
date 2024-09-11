@@ -11,7 +11,7 @@ I'm currently immersed in the exciting world of machine learning, where I'm deve
 In a previous project, I delved into the fascinating realm of bone growth morphogenesis. Using quantitative modeling, statistical analyses, and advanced morphometric techniques applied to growth plate tissue images, we unearthed novel insights into the mechanisms governing long bone elongation. Our journey included tasks such as cell/nuclei segmentation, bone registration, and the defining the parameters of various morphological properties. Among our discoveries, I observed isometric growth of chondrocytes in the resting zone of the growth plate, contrasting with allometric growth in the proliferative zone. I also identified distinct patterns in cell lineage clusters between embryonic and neonatal mice that linked to circumferential and elongation of bone growth.
 
 To dive deeper into these discoveries, check out our publication: 
-Application of 3D MAPs pipeline identifies the morphological sequence chondrocytes undergo and the regulatory role of GDF5 in this process. [Nature Communication 2021](https://www.nature.com/articles/s41467-021-25714-0)
+Application of 3D MAPs pipeline identifies the morphological sequence chondrocytes undergo and the regulatory role of GDF5 in this process. [Nature Communications 2021](https://www.nature.com/articles/s41467-021-25714-0)
 
 Bone elongation in the embryo occurs without column formation in the growth plate. [Accepted in eLife 2024](https://www.biorxiv.org/content/10.1101/2023.11.14.567062v2)
 
