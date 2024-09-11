@@ -24,9 +24,9 @@ Interested in learning more? Dive into the details of my previous research throu
 
 Chromatin as active matter. [JSTAT 2017](https://iopscience.iop.org/article/10.1088/1742-5468/aa5287)
 
-Nonequilibrium Biophysical Processes Influence the Large-Scale Architecture of the Cell Nucleus.[Biophysical Journal 2019](https://www.cell.com/biophysj/fulltext/S0006-3495(19)30940-3)
+Nonequilibrium Biophysical Processes Influence the Large-Scale Architecture of the Cell Nucleus. [Biophysical Journal 2020](https://www.cell.com/biophysj/fulltext/S0006-3495(19)30940-3)
 
-THiCweed: fast, sensitive detection of sequence features by clustering big datasets.[Nucleic Acid Research 2017](https://academic.oup.com/nar/article/46/5/e29/4754463)
+THiCweed: fast, sensitive detection of sequence features by clustering big datasets. [Nucleic Acid Research 2017](https://academic.oup.com/nar/article/46/5/e29/4754463)
 
 
 🛠️ Skills:
