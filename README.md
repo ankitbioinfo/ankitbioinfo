@@ -4,7 +4,7 @@ I’m Ankit, a passionate researcher with a diverse background in computational 
 
 🧬 Current Work:
 
-I'm currently immersed in the exciting world of machine learning, where I have developed NiCo, an innovative pipeline that integrates single-cell RNA sequencing (scRNAseq) data with image-based spatial transcriptomics data. Through this integration, we're unraveling the intricate web of cellular crosstalk within various tissue niches. My focus extends to deciphering the covariation of gene modules in colocalized cellular states. We've applied NiCo to publicly available datasets from liver, organogenesis, brain, and intestine tissues with the aim of identifying novel therapeutic targets. (Stay tuned, as the manuscript is under revision!) 
+I'm currently immersed in the exciting world of machine learning, where I have developed NiCo, an innovative pipeline that integrates single-cell RNA sequencing (scRNA-seq) data with image-based spatial transcriptomics data. Through this integration, we're unraveling the intricate web of cellular crosstalk within various tissue niches. My focus extends to deciphering the covariation of gene modules in colocalized cellular states. We've applied NiCo to publicly available datasets from liver, organogenesis, brain, and intestine tissues with the aim of identifying novel therapeutic targets. (Stay tuned, as the manuscript is under revision!) 
 
 <ins>NiCo Identifies Extrinsic Drivers of Cell State Modulation by Niche Covariation Analysis.</ins> [bioRxiv link](https://doi.org/10.1101/2024.09.08.611848) 
 
@@ -34,12 +34,12 @@ Interested in learning more? Dive into the details of my previous research throu
 
 🛠️ Skills:
 
-Throughout my research journey, I've acquired a versatile skill set spanning machine learning, quantitative biology, image analysis, spatial biology, spatial transcriptomics, single-cell RNA sequencing, cellular neighborhood analysis, and the quantification of cell/nuclei morphological properties (volume, surface area, sphericity, principal component orientation, and many more).
+Throughout my research journey, I've acquired a versatile skill set spanning machine learning, molecular dynamics simulation, quantitative and statistical data modeling, image analysis, spatial biology, spatial transcriptomics, scRNA-seq, cellular neighborhood analysis, and the quantification of cell/nuclei morphological properties (volume, surface area, sphericity, principal component orientation, and many more).
 
 
 📄 Learn More:
 
-If you'd like to explore my credentials in more detail, feel free to contact me at [linkedin](https://www.linkedin.com/in/ankit-agrawal-spatial-omics/)
+If you'd like to explore my credentials in more detail, feel free to contact me on [linkedin](https://www.linkedin.com/in/ankit-agrawal-spatial-omics/)
 
 Thank you for visiting my GitHub profile! If you have any questions or want to collaborate on fascinating research projects, don't hesitate to reach out. Let's unlock the mysteries of biology and data together! 🌟
 
