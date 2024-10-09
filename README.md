@@ -16,7 +16,7 @@ To dive deeper into these discoveries, check out our publication:
 
 <ins>Application of 3D MAPs pipeline identifies the morphological sequence chondrocytes undergo and the regulatory role of GDF5 in this process.</ins> [Nature Communications 2021](https://www.nature.com/articles/s41467-021-25714-0)
 
-<ins>Bone elongation in the embryo occurs without column formation in the growth plate.</ins> [Accepted in eLife 2024](https://www.biorxiv.org/content/10.1101/2023.11.14.567062v2)
+<ins>Limited column formation in the embryonic growth plate implies divergent growth mechanisms during pre- and postnatal bone development.</ins> [eLife 2024](https://elifesciences.org/articles/95289)
 
 
 🔬 Previous Research Highlights:
