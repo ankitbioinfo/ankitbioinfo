@@ -39,7 +39,7 @@ Throughout my research journey, I've acquired a versatile skill set spanning mac
 
 📄 Learn More:
 
-If you'd like to explore my credentials in more detail, feel free to contact me at linkedin.com/in/ankit-agrawal-spatial-omics/
+If you'd like to explore my credentials in more detail, feel free to contact me at [linkedin](https://www.linkedin.com/in/ankit-agrawal-spatial-omics/)
 
 Thank you for visiting my GitHub profile! If you have any questions or want to collaborate on fascinating research projects, don't hesitate to reach out. Let's unlock the mysteries of biology and data together! 🌟
 
