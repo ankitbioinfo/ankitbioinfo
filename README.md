@@ -1,4 +1,4 @@
-### Hello, there! 👋
+### Hello there! 👋
 
 I’m Ankit, a passionate researcher with a diverse background in computational biology, quantitative modeling, machine learning, and data analysis. Welcome to my GitHub profile!
 
