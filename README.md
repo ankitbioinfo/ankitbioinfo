@@ -1,16 +1,16 @@
 ### Hello, there! 👋
 
-I’m Ankit, a passionate researcher with a diverse background in computational biology, quantitative modeling, machine learning and data analysis. Welcome to my GitHub profile!
+I’m Ankit, a passionate researcher with a diverse background in computational biology, quantitative modeling, machine learning, and data analysis. Welcome to my GitHub profile!
 
 🧬 Current Work:
 
-I'm currently immersed in the exciting world of machine learning, where I'm developing an innovative pipeline that seamlessly integrates single-cell RNA sequencing data with image-based spatial transcriptomics data. Through this integration of data sources, we're unraveling the intricate web of cellular crosstalk within various tissue niches. My focus extends to deciphering the covariation of gene modules in colocalized cellular states. We've applied this method to publicly available datasets from liver, organogenesis, brain, and intestine tissues, with the aim of identifying novel therapeutic targets. (Stay tuned, as manuscript is under revision!) 
+I'm currently immersed in the exciting world of machine learning, where I have developed NiCo, an innovative pipeline that integrates single-cell RNA sequencing (scRNAseq) data with image-based spatial transcriptomics data. Through this integration, we're unraveling the intricate web of cellular crosstalk within various tissue niches. My focus extends to deciphering the covariation of gene modules in colocalized cellular states. We've applied NiCo to publicly available datasets from liver, organogenesis, brain, and intestine tissues with the aim of identifying novel therapeutic targets. (Stay tuned, as the manuscript is under revision!) 
 
 <ins>NiCo Identifies Extrinsic Drivers of Cell State Modulation by Niche Covariation Analysis.</ins> [bioRxiv link](https://doi.org/10.1101/2024.09.08.611848) 
 
 🦴 Past Endeavors:
 
-In a previous project, I delved into the fascinating realm of bone growth morphogenesis. Using quantitative modeling, statistical analyses, and advanced morphometric techniques applied to growth plate tissue images, we unearthed novel insights into the mechanisms governing long bone elongation. Our journey included tasks such as cell/nuclei segmentation, bone registration, and the defining the parameters of various morphological properties. Among our discoveries, I observed isometric growth of chondrocytes in the resting zone of the growth plate, contrasting with allometric growth in the proliferative zone. I also identified distinct patterns in cell lineage clusters between embryonic and neonatal mice that linked to circumferential and elongation of bone growth.
+In a previous project, I delved into the fascinating realm of bone growth morphogenesis. Using quantitative modeling, statistical analyses, and advanced morphometric techniques applied to growth plate tissue images, we unearthed novel insights into the mechanism governing long bone elongation. Our journey included tasks such as cell/nuclei segmentation, registration of bones, and defining the parameters of various morphological properties. Among our discoveries, I observed isometric growth of chondrocytes in the resting zone of the growth plate, contrasting with allometric growth in the proliferative zone. I also identified distinct patterns in cell lineage clusters between embryonic and neonatal mice that linked to circumferential and elongation growth of bones.
 
 To dive deeper into these discoveries, check out our publication: 
 
@@ -21,7 +21,7 @@ To dive deeper into these discoveries, check out our publication:
 
 🔬 Previous Research Highlights:
 
-I've explored various facets of biology and data analysis throughout my career. This includes using gene expression as a proxy for activity to elucidate chromosome positioning in nuclei. I developed biophysical models to predict chromatin distributions in nuclei, even delving into their 2D/3D chromosomes shapes. My journey has also taken me into the realm of ChIP-seq data analysis to uncover mixtures of motifs using sequence similarity and position weight matrix models.
+I've explored various facets of biology and data analysis throughout my career. This includes using gene expression as a proxy for activity to elucidate chromosome positioning in nuclei. I developed biophysical models to predict chromatin distributions in nuclei along the radial direction, even delving into their 2D/3D chromosome shapes. My journey has also taken me into the realm of ChIP-seq data analysis to uncover mixtures of motifs based on clustering using sequence similarity and position weight matrix models.
 
 Interested in learning more? Dive into the details of my previous research through these publications:
 
@@ -34,12 +34,12 @@ Interested in learning more? Dive into the details of my previous research throu
 
 🛠️ Skills:
 
-Throughout my research journey, I've acquired a versatile skill set spanning machine learning, quantitative biology, image analysis, spatial biology, spatial transcriptomics, single cell RNA sequencing, neighborhood analysis, and the quantification of cell/nuclei and tissue morphological properties (volume, surface area, sphericity, principal component orientation, and many more).
+Throughout my research journey, I've acquired a versatile skill set spanning machine learning, quantitative biology, image analysis, spatial biology, spatial transcriptomics, single-cell RNA sequencing, cellular neighborhood analysis, and the quantification of cell/nuclei morphological properties (volume, surface area, sphericity, principal component orientation, and many more).
 
 
 📄 Learn More:
 
-If you'd like to explore my credentials in more detail, feel free to peruse my [CV.](https://github.com/ankitbioinfo/interestingLinks/blob/master/CV_ankit2.pdf)
+If you'd like to explore my credentials in more detail, feel free to contact me at linkedin.com/in/ankit-agrawal-spatial-omics/
 
 Thank you for visiting my GitHub profile! If you have any questions or want to collaborate on fascinating research projects, don't hesitate to reach out. Let's unlock the mysteries of biology and data together! 🌟
 
