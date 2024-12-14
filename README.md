@@ -6,7 +6,7 @@ I’m Ankit, a passionate researcher with a diverse background in computational 
 
 I'm currently immersed in the exciting world of machine learning, where I have developed NiCo, an innovative pipeline that integrates single-cell RNA sequencing (scRNA-seq) data with image-based spatial transcriptomics data. Through this integration, we're unraveling the intricate web of cellular crosstalk within various tissue niches. My focus extends to deciphering the covariation of gene modules in colocalized cellular states. We've applied NiCo to publicly available datasets from liver, organogenesis, brain, and intestine tissues with the aim of identifying novel therapeutic targets. (Stay tuned, as the manuscript is under revision!) 
 
-<ins>NiCo Identifies Extrinsic Drivers of Cell State Modulation by Niche Covariation Analysis.</ins> [bioRxiv link](https://doi.org/10.1101/2024.09.08.611848) 
+<ins>NiCo Identifies Extrinsic Drivers of Cell State Modulation by Niche Covariation Analysis.</ins> [Nature Communications 2024](https://www.nature.com/articles/s41467-024-54973-w) 
 
 🦴 Past Endeavors:
 
