@@ -27,10 +27,10 @@ To dive deeper into these discoveries, check out our publication:
 
 Earlier in my research career, I worked at the intersection of molecular biology, genomics, and computational modeling. Key projects included:
 
-- 🧬 Chromosome Positioning & Nuclear Architecture
+- Chromosome Positioning & Nuclear Architecture
   Developed biophysical models to predict chromatin distribution and chromosome positioning along the radial nuclear axis using gene expression data as a proxy. Explored 2D/3D chromosome structures to understand spatial organization within nuclei.
 
-- 🧪 Gene Regulation & ChIP-seq Analysis
+- Gene Regulation & ChIP-seq Analysis
   Analyzed ChIP-seq datasets to identify motif mixtures using clustering based on sequence similarity and position-based features, helping to characterize regulatory element patterns.
 
 These foundational projects strengthened my skills in statistical modeling, data integration, and the use of genomic signals to inform structural and regulatory insights in cellular systems.
