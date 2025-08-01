@@ -2,15 +2,20 @@
 
 I’m Ankit, a researcher with a diverse background in computational biology, quantitative modeling, machine learning, and data analysis. Welcome to my GitHub profile!
 
-🧬 Current Work:
+🧪 Current Role
+At CatalYm, I focus on the intersection of spatial omics, and immuno-oncology to uncover the cellular and molecular mechanisms that drive therapeutic resistance and immune evasion in the TME. My work integrates running different spatial-omics tools to accelerate discovery and guide translational decisions.
 
-I'm currently immersed in the exciting world of machine learning, where I have developed NiCo, an innovative pipeline that integrates single-cell RNA sequencing (scRNA-seq) data with image-based spatial transcriptomics data. Through this integration, we're unraveling the intricate web of cellular crosstalk within various tissue niches. My focus extends to deciphering the covariation of gene modules in colocalized cellular states. We've applied NiCo to publicly available datasets from liver, organogenesis, brain, and intestine tissues with the aim of identifying novel therapeutic targets. (Stay tuned, as the manuscript is under revision!) 
+
+🧬 Previous work (2021-2025) @ University of Würzburg, Germany
+I developed NiCo, a computational pipeline that integrates scRNA-seq with image-based spatial transcriptomics to reveal cell-cell communication and gene program (meta-program) covariation within tissue niches. We applied NiCo to diverse biological contexts including liver, brain, and developmental tissues to uncover novel mechanistic insights.  
+
+Check out our publication: 
 
 <ins>NiCo Identifies Extrinsic Drivers of Cell State Modulation by Niche Covariation Analysis.</ins> [Nature Communications 2024](https://www.nature.com/articles/s41467-024-54973-w) 
 
-🦴 Past Endeavors:
+🦴 Past Endeavors (2018-2020) @ Weizmann Institute of Science, Israel
 
-In a previous project, I delved into the fascinating realm of bone growth morphogenesis. Using quantitative modeling, statistical analyses, and advanced morphometric techniques applied to growth plate tissue images, we unearthed novel insights into the mechanism governing long bone elongation. Our journey included tasks such as cell/nuclei segmentation, registration of bones, and defining the parameters of various morphological properties. Among our discoveries, I observed isometric growth of chondrocytes in the resting zone of the growth plate, contrasting with allometric growth in the proliferative zone. I also identified distinct patterns in cell lineage clusters between embryonic and neonatal mice that linked to circumferential and elongation growth of bones.
+I explored the fascinating realm of bone growth morphogenesis. Using quantitative modeling, statistical analyses, and morphometric techniques applied to growth plate tissue images, we uncovered mechanism governing long bone elongation. Some highlights are: Cell/Nuclei segmentation and registration of bones, Identification of isometric growth of chondrocytes in the resting zone vs. allometric growth in the proliferative zone. Discovery of distinct cell lineage cluster patterns between embryonic and neonatal mice bones contributing to growth directionality
 
 To dive deeper into these discoveries, check out our publication: 
 
@@ -19,7 +24,20 @@ To dive deeper into these discoveries, check out our publication:
 <ins>Limited column formation in the embryonic growth plate implies divergent growth mechanisms during pre- and postnatal bone development.</ins> [eLife 2024](https://elifesciences.org/articles/95289)
 
 
-🔬 Previous Research Highlights:
+🔬 Research Highlights during PhD (2013-2018)
+
+### 🔬 Research Highlights (2013–2018)
+
+Earlier in my research career, I worked at the intersection of molecular biology, genomics, and computational modeling. Key projects included:
+
+- 🧬 **Chromosome Positioning & Nuclear Architecture**  
+  Developed **biophysical models** to predict **chromatin distribution** and **chromosome positioning** along the radial nuclear axis using gene expression data as a proxy. Explored **2D/3D chromosome structures** to understand spatial organization within nuclei.
+
+- 🧪 **Gene Regulation & ChIP-seq Analysis**  
+  Analyzed **ChIP-seq datasets** to identify motif mixtures using clustering based on **sequence similarity** and **position-based features**, helping to characterize regulatory element patterns.
+
+These foundational projects strengthened my skills in statistical modeling, data integration, and the use of genomic signals to inform structural and regulatory insights in cellular systems.
+
 
 I've explored various facets of biology and data analysis throughout my career. This includes using gene expression as a proxy for activity to elucidate chromosome positioning in nuclei. I developed biophysical models to predict chromatin distributions in nuclei along the radial direction, even delving into their 2D/3D chromosome shapes. My journey has also taken me into the realm of ChIP-seq data analysis to uncover mixtures of motifs based on clustering using sequence similarity and position weight matrix models.
 
