@@ -40,9 +40,7 @@ These foundational projects strengthened my skills in statistical modeling, data
 Interested in learning more? Dive into the details of my previous research through these publications:
 
 - <ins>Chromatin as active matter.</ins> [JSTAT 2017](https://iopscience.iop.org/article/10.1088/1742-5468/aa5287)
-
 - <ins>Nonequilibrium Biophysical Processes Influence the Large-Scale Architecture of the Cell Nucleus.</ins> [Biophysical Journal 2020](https://www.cell.com/biophysj/fulltext/S0006-3495(19)30940-3)
-
 - <ins>THiCweed: fast, sensitive detection of sequence features by clustering big datasets.</ins> [Nucleic Acid Research 2017](https://academic.oup.com/nar/article/46/5/e29/4754463)
 
 
