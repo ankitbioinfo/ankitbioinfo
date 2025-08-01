@@ -11,7 +11,7 @@ I developed NiCo, a computational pipeline that integrates scRNA-seq with image-
 
 Check out our publication: 
 
-<ins>NiCo Identifies Extrinsic Drivers of Cell State Modulation by Niche Covariation Analysis.</ins> [Nature Communications 2024](https://www.nature.com/articles/s41467-024-54973-w) 
+- <ins>NiCo Identifies Extrinsic Drivers of Cell State Modulation by Niche Covariation Analysis.</ins> [Nature Communications 2024](https://www.nature.com/articles/s41467-024-54973-w) 
 
 🦴 Past Endeavors (2018-2020) @ Weizmann Institute of Science, Israel
 
@@ -19,9 +19,8 @@ I explored the fascinating realm of bone growth morphogenesis. Using quantitativ
 
 To dive deeper into these discoveries, check out our publication: 
 
-<ins>Application of 3D MAPs pipeline identifies the morphological sequence chondrocytes undergo and the regulatory role of GDF5 in this process.</ins> [Nature Communications 2021](https://www.nature.com/articles/s41467-021-25714-0)
-
-<ins>Limited column formation in the embryonic growth plate implies divergent growth mechanisms during pre- and postnatal bone development.</ins> [eLife 2024](https://elifesciences.org/articles/95289)
+- <ins>Application of 3D MAPs pipeline identifies the morphological sequence chondrocytes undergo and the regulatory role of GDF5 in this process.</ins> [Nature Communications 2021](https://www.nature.com/articles/s41467-021-25714-0)
+- <ins>Limited column formation in the embryonic growth plate implies divergent growth mechanisms during pre- and postnatal bone development.</ins> [eLife 2024](https://elifesciences.org/articles/95289)
 
 
 🔬 Research Highlights (2013-2018)
