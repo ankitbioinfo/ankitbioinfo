@@ -23,7 +23,7 @@ To dive deeper into these discoveries, check out our publication:
 - <ins>Limited column formation in the embryonic growth plate implies divergent growth mechanisms during pre- and postnatal bone development.</ins> [eLife 2024](https://elifesciences.org/articles/95289)
 
 
-🔬 Research Highlights (2013-2018)
+🔬 Research Highlights (2013-2018) @ The Institute of Mathematical Sciences, Chennai, India 
 
 Earlier in my research career, I worked at the intersection of molecular biology, genomics, and computational modeling. Key projects included:
 
