@@ -24,30 +24,26 @@ To dive deeper into these discoveries, check out our publication:
 <ins>Limited column formation in the embryonic growth plate implies divergent growth mechanisms during pre- and postnatal bone development.</ins> [eLife 2024](https://elifesciences.org/articles/95289)
 
 
-🔬 Research Highlights during PhD (2013-2018)
-
-### 🔬 Research Highlights (2013–2018)
+🔬 Research Highlights (2013-2018)
 
 Earlier in my research career, I worked at the intersection of molecular biology, genomics, and computational modeling. Key projects included:
 
-- 🧬 **Chromosome Positioning & Nuclear Architecture**  
-  Developed **biophysical models** to predict **chromatin distribution** and **chromosome positioning** along the radial nuclear axis using gene expression data as a proxy. Explored **2D/3D chromosome structures** to understand spatial organization within nuclei.
+- 🧬 Chromosome Positioning & Nuclear Architecture
+  Developed biophysical models to predict chromatin distribution and chromosome positioning along the radial nuclear axis using gene expression data as a proxy. Explored 2D/3D chromosome structures to understand spatial organization within nuclei.
 
-- 🧪 **Gene Regulation & ChIP-seq Analysis**  
-  Analyzed **ChIP-seq datasets** to identify motif mixtures using clustering based on **sequence similarity** and **position-based features**, helping to characterize regulatory element patterns.
+- 🧪 Gene Regulation & ChIP-seq Analysis
+  Analyzed ChIP-seq datasets to identify motif mixtures using clustering based on sequence similarity and position-based features, helping to characterize regulatory element patterns.
 
 These foundational projects strengthened my skills in statistical modeling, data integration, and the use of genomic signals to inform structural and regulatory insights in cellular systems.
 
 
-I've explored various facets of biology and data analysis throughout my career. This includes using gene expression as a proxy for activity to elucidate chromosome positioning in nuclei. I developed biophysical models to predict chromatin distributions in nuclei along the radial direction, even delving into their 2D/3D chromosome shapes. My journey has also taken me into the realm of ChIP-seq data analysis to uncover mixtures of motifs based on clustering using sequence similarity and position weight matrix models.
-
 Interested in learning more? Dive into the details of my previous research through these publications:
 
-<ins>Chromatin as active matter.</ins> [JSTAT 2017](https://iopscience.iop.org/article/10.1088/1742-5468/aa5287)
+- <ins>Chromatin as active matter.</ins> [JSTAT 2017](https://iopscience.iop.org/article/10.1088/1742-5468/aa5287)
 
-<ins>Nonequilibrium Biophysical Processes Influence the Large-Scale Architecture of the Cell Nucleus.</ins> [Biophysical Journal 2020](https://www.cell.com/biophysj/fulltext/S0006-3495(19)30940-3)
+- <ins>Nonequilibrium Biophysical Processes Influence the Large-Scale Architecture of the Cell Nucleus.</ins> [Biophysical Journal 2020](https://www.cell.com/biophysj/fulltext/S0006-3495(19)30940-3)
 
-<ins>THiCweed: fast, sensitive detection of sequence features by clustering big datasets.</ins> [Nucleic Acid Research 2017](https://academic.oup.com/nar/article/46/5/e29/4754463)
+- <ins>THiCweed: fast, sensitive detection of sequence features by clustering big datasets.</ins> [Nucleic Acid Research 2017](https://academic.oup.com/nar/article/46/5/e29/4754463)
 
 
 🛠️ Skills:
