@@ -10,7 +10,7 @@ At CatalYm, I focus on the intersection of spatial omics, and immuno-oncology to
 I developed NiCo, a computational pipeline that integrates scRNA-seq with image-based spatial transcriptomics to reveal cell-cell communication and gene program (meta-program) covariation within tissue niches. We applied NiCo to diverse biological contexts including liver, brain, and developmental tissues to uncover novel mechanistic insights.  
 
 Check out our publication: 
-
+- <ins>Decoding cell–cell communication using spatial transcriptomics. </ins>[Tool Highlight at Nature Reviews Genetics](https://www.nature.com/articles/s41576-025-00824-3)
 - <ins>NiCo Identifies Extrinsic Drivers of Cell State Modulation by Niche Covariation Analysis.</ins> [Nature Communications 2024](https://www.nature.com/articles/s41467-024-54973-w) 
 
 🦴 Past Endeavors (2018-2020) @ Weizmann Institute of Science, Israel
