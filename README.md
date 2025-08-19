@@ -9,15 +9,15 @@ At CatalYm, I focus on the intersection of spatial omics, and immuno-oncology to
 👉 🧬 Previous work (2021-2025) @ University of Würzburg, Germany 
 I developed NiCo, a computational pipeline that integrates scRNA-seq with image-based spatial transcriptomics to reveal cell-cell communication and gene program (meta-program) covariation within tissue niches. We applied NiCo to diverse biological contexts including liver, brain, and developmental tissues to uncover novel mechanistic insights.  
 
-Check out our publication: 
+Check out our publications: 
 - <ins>Decoding cell–cell communication using spatial transcriptomics. </ins>[Tool Highlight at Nature Reviews Genetics](https://www.nature.com/articles/s41576-025-00824-3)
 - <ins>NiCo Identifies Extrinsic Drivers of Cell State Modulation by Niche Covariation Analysis.</ins> [Nature Communications 2024](https://www.nature.com/articles/s41467-024-54973-w) 
 
 👉 🦴 Past Endeavors (2018-2020) @ Weizmann Institute of Science, Israel
 
-I explored the fascinating realm of bone growth morphogenesis. Using quantitative modeling, statistical analyses, and morphometric techniques applied to growth plate tissue images, we uncovered mechanism governing long bone elongation. Some highlights are: Cell/Nuclei segmentation and registration of bones, Identification of isometric growth of chondrocytes in the resting zone vs. allometric growth in the proliferative zone. Discovery of distinct cell lineage cluster patterns between embryonic and neonatal mice bones contributing to growth directionality
+I explored the fascinating realm of bone growth morphogenesis. Using quantitative modeling, statistical analyses, and morphometric techniques applied to growth plate tissue images, we uncovered mechanism governing long bone elongation. Some highlights are: Cell/Nuclei segmentation and registration of bones, Identification of isometric growth of chondrocytes in the resting zone vs. allometric growth in the proliferative zone. Discovery of distinct cell lineage growing cluster pattern between embryonic and neonatal mice bones contribute to circumferential and longitudinal growth directionality. 
 
-To dive deeper into these discoveries, check out our publication: 
+To dive deeper into these discoveries, check out our publications: 
 
 - <ins>Application of 3D MAPs pipeline identifies the morphological sequence chondrocytes undergo and the regulatory role of GDF5 in this process.</ins> [Nature Communications 2021](https://www.nature.com/articles/s41467-021-25714-0)
 - <ins>Limited column formation in the embryonic growth plate implies divergent growth mechanisms during pre- and postnatal bone development.</ins> [eLife 2024](https://elifesciences.org/articles/95289)
@@ -33,10 +33,7 @@ Earlier in my research career, I worked at the intersection of molecular biology
 - Gene Regulation & ChIP-seq Analysis
   Analyzed ChIP-seq datasets to identify motif mixtures using clustering based on sequence similarity and position-based features, helping to characterize regulatory element patterns.
 
-These foundational projects strengthened my skills in statistical modeling, data integration, and the use of genomic signals to inform structural and regulatory insights in cellular systems.
-
-
-Interested in learning more? Dive into the details of my previous research through these publications:
+These foundational projects strengthened my skills in statistical modeling, data integration, and the use of genomic signals to inform structural and regulatory insights in cellular systems. Interested in learning more? Dive into the details esearch through these publications:
 
 - <ins>Chromatin as active matter.</ins> [JSTAT 2017](https://iopscience.iop.org/article/10.1088/1742-5468/aa5287)
 - <ins>Nonequilibrium Biophysical Processes Influence the Large-Scale Architecture of the Cell Nucleus.</ins> [Biophysical Journal 2020](https://www.cell.com/biophysj/fulltext/S0006-3495(19)30940-3)
