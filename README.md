@@ -2,18 +2,18 @@
 
 I’m Ankit, a researcher with a diverse background in computational biology, quantitative modeling, machine learning, and data analysis. Welcome to my GitHub profile!
 
-🧪 Current Role
+👉 🧪 Current Role
 At CatalYm, I focus on the intersection of spatial omics, and immuno-oncology to uncover the cellular and molecular mechanisms that drive therapeutic resistance and immune evasion in the TME. My work integrates running different spatial-omics tools to accelerate discovery and guide translational decisions.
 
 
-🧬 Previous work (2021-2025) @ University of Würzburg, Germany 👉 Check out the documentation
+👉 🧬 Previous work (2021-2025) @ University of Würzburg, Germany 
 I developed NiCo, a computational pipeline that integrates scRNA-seq with image-based spatial transcriptomics to reveal cell-cell communication and gene program (meta-program) covariation within tissue niches. We applied NiCo to diverse biological contexts including liver, brain, and developmental tissues to uncover novel mechanistic insights.  
 
 Check out our publication: 
 - <ins>Decoding cell–cell communication using spatial transcriptomics. </ins>[Tool Highlight at Nature Reviews Genetics](https://www.nature.com/articles/s41576-025-00824-3)
 - <ins>NiCo Identifies Extrinsic Drivers of Cell State Modulation by Niche Covariation Analysis.</ins> [Nature Communications 2024](https://www.nature.com/articles/s41467-024-54973-w) 
 
-🦴 Past Endeavors (2018-2020) @ Weizmann Institute of Science, Israel
+👉 🦴 Past Endeavors (2018-2020) @ Weizmann Institute of Science, Israel
 
 I explored the fascinating realm of bone growth morphogenesis. Using quantitative modeling, statistical analyses, and morphometric techniques applied to growth plate tissue images, we uncovered mechanism governing long bone elongation. Some highlights are: Cell/Nuclei segmentation and registration of bones, Identification of isometric growth of chondrocytes in the resting zone vs. allometric growth in the proliferative zone. Discovery of distinct cell lineage cluster patterns between embryonic and neonatal mice bones contributing to growth directionality
 
@@ -23,7 +23,7 @@ To dive deeper into these discoveries, check out our publication:
 - <ins>Limited column formation in the embryonic growth plate implies divergent growth mechanisms during pre- and postnatal bone development.</ins> [eLife 2024](https://elifesciences.org/articles/95289)
 
 
-🔬 Research Highlights (2013-2018) @ The Institute of Mathematical Sciences, Chennai, India 
+👉 🔬 Research Highlights (2013-2018) @ The Institute of Mathematical Sciences, Chennai, India 
 
 Earlier in my research career, I worked at the intersection of molecular biology, genomics, and computational modeling. Key projects included:
 
@@ -43,12 +43,12 @@ Interested in learning more? Dive into the details of my previous research throu
 - <ins>THiCweed: fast, sensitive detection of sequence features by clustering big datasets.</ins> [Nucleic Acid Research 2017](https://academic.oup.com/nar/article/46/5/e29/4754463)
 
 
-🛠️ Skills:
+👉 🛠️ Skills:
 
 Throughout my research journey, I've acquired a versatile skill set spanning machine learning, molecular dynamics simulation, quantitative and statistical data modeling, image analysis, spatial biology, spatial transcriptomics, scRNA-seq, cellular neighborhood analysis, and the quantification of cell/nuclei morphological properties (volume, surface area, sphericity, principal component orientation, and many more).
 
 
-📄 Learn More:
+👉 📄 Learn More:
 
 If you'd like to explore my credentials in more detail, feel free to contact me on [linkedin](https://www.linkedin.com/in/ankit-agrawal-spatial-omics/)
 
