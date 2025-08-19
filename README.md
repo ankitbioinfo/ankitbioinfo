@@ -6,7 +6,7 @@ I’m Ankit, a researcher with a diverse background in computational biology, qu
 At CatalYm, I focus on the intersection of spatial omics, and immuno-oncology to uncover the cellular and molecular mechanisms that drive therapeutic resistance and immune evasion in the TME. My work integrates running different spatial-omics tools to accelerate discovery and guide translational decisions.
 
 
-🧬 Previous work (2021-2025) @ University of Würzburg, Germany
+🧬 Previous work (2021-2025) @ University of Würzburg, Germany 👉 Check out the documentation
 I developed NiCo, a computational pipeline that integrates scRNA-seq with image-based spatial transcriptomics to reveal cell-cell communication and gene program (meta-program) covariation within tissue niches. We applied NiCo to diverse biological contexts including liver, brain, and developmental tissues to uncover novel mechanistic insights.  
 
 Check out our publication: 
