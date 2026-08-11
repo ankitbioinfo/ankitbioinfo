@@ -2,15 +2,15 @@
 
 I’m Ankit, a researcher with a diverse background in computational biology, omics and clinical data, quantitative modeling, machine learning, and data analysis. Welcome to my GitHub profile!
 
-👉 🧪 Current Role (07/2026–Present) @ Syngene International Limited, Bangalore, India <br>
+👉 🧪 Current role (07/2026–Present) @ Syngene International Limited, Bangalore, India <br>
 Consultant supporting the Translational Development group at BMS, based at the Biocon–Bristol Myers Squibb Research and Development Center (BBRC) in Bengaluru, India.
 
 
-👉 🧬 Previous role (06/2025-06/2026) @ Catalym, Munich, Germany  
+👉 🧬 Previous role (06/2025-06/2026) @ Catalym, Munich, Germany  <br>
 At CatalYm, I investigated the intersection of spatial omics and immuno-oncology, uncovering cellular and molecular mechanisms underlying therapeutic resistance and immune evasion in the tumor microenvironment. I applied diverse spatial-omics tools to accelerate scientific discovery and support translational decision-making.
 
 
-👉 🧬 Previous work (2021-2025) @ University of Würzburg, Germany 
+👉 🧬 Previous work (2021-2025) @ University of Würzburg, Germany <br>
 I developed NiCo, a computational pipeline that integrates scRNA-seq with image-based spatial transcriptomics to reveal cell-cell communication and gene program (meta-program) covariation within tissue niches. We applied NiCo to diverse biological contexts including liver, brain, and developmental tissues to uncover novel mechanistic insights.  
 
 Check out our publications: 
