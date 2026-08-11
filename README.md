@@ -7,7 +7,7 @@ Consultant supporting the Translational Development group at BMS, based at the B
 
 
 👉 🧬 Previous role (06/2025-06/2026) @ Catalym, Munich, Germany  
-At CatalYm, I focus on the intersection of spatial omics, and immuno-oncology to uncover the cellular and molecular mechanisms that drive therapeutic resistance and immune evasion in the TME. My work integrates running different spatial-omics tools to accelerate discovery and guide translational decisions.
+At CatalYm, I investigated the intersection of spatial omics and immuno-oncology, uncovering cellular and molecular mechanisms underlying therapeutic resistance and immune evasion in the tumor microenvironment. I applied diverse spatial-omics tools to accelerate scientific discovery and support translational decision-making.
 
 
 👉 🧬 Previous work (2021-2025) @ University of Würzburg, Germany 
