@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I’m Ankit, a researcher with a diverse background in computational biology, quantitative modeling, machine learning, and data analysis. Welcome to my GitHub profile!
+I’m Ankit, a researcher with a diverse background in computational biology, omics and clinical data, quantitative modeling, machine learning, and data analysis. Welcome to my GitHub profile!
 
 👉 🧪 Current Role (07/2026–Present)@ Syngene International Limited, Bangalore, India 
 Consultant supporting the Translational Development group at BMS, based at the Biocon–Bristol Myers Squibb Research and Development Center (BBRC) in Bengaluru, India.
