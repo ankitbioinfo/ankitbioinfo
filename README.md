@@ -2,7 +2,11 @@
 
 I’m Ankit, a researcher with a diverse background in computational biology, quantitative modeling, machine learning, and data analysis. Welcome to my GitHub profile!
 
-👉 🧪 Current Role
+👉 🧪 Current Role (07/2026–Present)@ Syngene International Limited, Bangalore, India 
+Consultant supporting the Translational Development group at BMS, based at the Biocon–Bristol Myers Squibb Research and Development Center (BBRC) in Bengaluru, India.
+
+
+👉 🧬 Previous role (06/2025-06/2026) @ Catalym, Munich, Germany  
 At CatalYm, I focus on the intersection of spatial omics, and immuno-oncology to uncover the cellular and molecular mechanisms that drive therapeutic resistance and immune evasion in the TME. My work integrates running different spatial-omics tools to accelerate discovery and guide translational decisions.
 
 
